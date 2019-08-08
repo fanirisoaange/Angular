@@ -1,0 +1,49 @@
+
+
+  .btn-create button{
+    background:url(../../../src/assets/images/plus.svg) no-repeat top 18px left 8px, linear-gradient(to right, #0E58B1 , #4B826D);
+    padding:10px 15px 10px 30px;
+    box-shadow: 0 2px 4px #9B9B9B;
+    font-size: 14px;
+    height: 50px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    margin-left: 10%
+}
+
+.warning {
+  background-color: #dc3545;
+  border-color: #dc3545 !important;
+}
+
+.table{
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
+}
+
+.titleBloc {
+  color: #3444a0;
+  font-weight: 700;
+  text-align: center !important;
+}
+.mat-card-header{
+  text-align: center !important;
+}
+
+.btn-group-sm>.btn, .btn-sm {
+  margin-right: 5% !important;
+}
+
+.iconProduct{
+  margin: 5px 5px 15px 5px;
+  padding: 0;
+}
+
+td img{
+  width: 100px !important;
+  margin: 5px 5px 5px 5px;
+}
